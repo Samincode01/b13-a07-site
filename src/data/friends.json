@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Mahin Rahman",
+    "picture": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg",
+    "email": "mahin.rahman@gmail.com",
+    "days_since_contact": 18,
+    "status": "overdue",
+    "tags": ["college", "close friend"],
+    "bio": "We used to spend late nights preparing projects and discussing startup ideas together.",
+    "goal": 14,
+    "next_due_date": "2026-04-11"
+  },
+  {
+    "id": 2,
+    "name": "Tasnuba Islam",
+    "picture": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg",
+    "email": "tasnuba.islam@yahoo.com",
+    "days_since_contact": 12,
+    "status": "almost due",
+    "tags": ["school", "study partner"],
+    "bio": "One of my closest school friends who still shares book and movie recommendations.",
+    "goal": 14,
+    "next_due_date": "2026-04-17"
+  },
+  {
+    "id": 3,
+    "name": "Nabil Hasan",
+    "picture": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
+    "email": "nabil.hasan@outlook.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["office", "gym buddy"],
+    "bio": "We met during our internship and now regularly discuss fitness and career goals.",
+    "goal": 14,
+    "next_due_date": "2026-04-26"
+  },
+  {
+    "id": 4,
+    "name": "Raisa Karim",
+    "picture": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg",
+    "email": "raisa.karim@gmail.com",
+    "days_since_contact": 21,
+    "status": "overdue",
+    "tags": ["family friend", "travel"],
+    "bio": "A passionate traveler who always inspires me with stories from different places.",
+    "goal": 14,
+    "next_due_date": "2026-04-08"
+  },
+  {
+    "id": 5,
+    "name": "Adib Chowdhury",
+    "picture": "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg",
+    "email": "adib.chowdhury@gmail.com",
+    "days_since_contact": 13,
+    "status": "almost due",
+    "tags": ["freelance", "tech"],
+    "bio": "We often collaborate on freelance projects and discuss modern web technologies.",
+    "goal": 14,
+    "next_due_date": "2026-04-16"
+  },
+  {
+    "id": 6,
+    "name": "Maliha Noor",
+    "picture": "https://images.pexels.com/photos/1130626/pexels-photo-1130626.jpeg",
+    "email": "maliha.noor@gmail.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["neighbor", "childhood"],
+    "bio": "We grew up together in the same neighborhood and share unforgettable childhood memories.",
+    "goal": 14,
+    "next_due_date": "2026-04-28"
+  },
+  {
+    "id": 7,
+    "name": "Sabbir Ahmed",
+    "picture": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg",
+    "email": "sabbir.ahmed@protonmail.com",
+    "days_since_contact": 16,
+    "status": "overdue",
+    "tags": ["university", "project team"],
+    "bio": "Worked together on multiple university projects and coding competitions.",
+    "goal": 14,
+    "next_due_date": "2026-04-13"
+  },
+  {
+    "id": 8,
+    "name": "Nusrat Jahan",
+    "picture": "https://images.pexels.com/photos/1181685/pexels-photo-1181685.jpeg",
+    "email": "nusrat.jahan@gmail.com",
+    "days_since_contact": 9,
+    "status": "on-track",
+    "tags": ["book club", "creative"],
+    "bio": "An incredibly creative person who loves discussing books and storytelling ideas.",
+    "goal": 14,
+    "next_due_date": "2026-04-22"
+  },
+  {
+    "id": 9,
+    "name": "Rifat Hossain",
+    "picture": "https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg",
+    "email": "rifat.hossain@gmail.com",
+    "days_since_contact": 15,
+    "status": "overdue",
+    "tags": ["startup", "mentor"],
+    "bio": "A startup enthusiast who motivates me to stay productive and focused.",
+    "goal": 14,
+    "next_due_date": "2026-04-14"
+  },
+  {
+    "id": 10,
+    "name": "Fariha Sultana",
+    "picture": "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg",
+    "email": "fariha.sultana@gmail.com",
+    "days_since_contact": 7,
+    "status": "on-track",
+    "tags": ["online course", "design"],
+    "bio": "We met in a UI/UX course and still review and improve each other's design work.",
+    "goal": 14,
+    "next_due_date": "2026-04-24"
+  }
+]
