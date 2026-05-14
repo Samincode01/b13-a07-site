@@ -1,9 +1,7 @@
 
 const getFriends = async() => {
-    // for development
-    // const res = await fetch("http://localhost:3000/friends.json");
-    // for production 
-    const res = await fetch("https://b13-a07.vercel.app/friends.json");
+    // https://6a0606e4c83ba8ad9b3d2608.mockapi.io/friends
+    const res = await fetch("http://localhost:3000/friends.json");
     const data = await res.json();
 
     return data;
